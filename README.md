@@ -1,4 +1,4 @@
-# Simulação de Projeto eCOMEX
+# Simulação de Projeto Teste de Comercio
 
 Este projeto simula um sistema de comércio exterior com foco em:
 - Backlog funcional
